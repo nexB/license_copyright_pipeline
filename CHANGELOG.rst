@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-v0.0.0
+v0.0.1
 ------
 
-*xxxx-xx-xx* -- Initial release.
+*2022-08-16* -- Initial release.
